@@ -40,7 +40,7 @@ I am learning a lot every day and will keep working on my personnal software pro
 <br />
 
 
-📊 **This week i spent my time on:**
+📊 **This week I spent my time on:**
 
 TypeScript
 <br />
