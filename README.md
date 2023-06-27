@@ -63,7 +63,7 @@ Other        15 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-If you like what i do, maybe consider reaching out
+If you like what I do, please consider reaching out
 
 <!-- 🚧 **my todoist stats:** -->
 <!-- TODO-IST:START -->
