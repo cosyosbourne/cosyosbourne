@@ -79,33 +79,20 @@ If you like what I do, please consider reaching out
 
 📈 **My github stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cosyosbourne&show_icons=true&theme=gotham" alt="TitouanAndritsos" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cosyosbourne&show_icons=true&theme=gotham" alt="TitouanAndritsos" /></p>
 
 <br />
 <br />
 🇫🇷
 <br />
-### Bonjour !
-<a href="https://www.instagram.com/cosy_osbourne/">
-  <img align="left" alt="Titouan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<!-- <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Titouan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a> -->
-<a href="https://www.linkedin.com/in/titouan-andritsos-b1577210a/">
-  <img align="left" alt="Titouan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="youtube.com/@dull_boy">
-  <img align="left" alt="Titouan's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
-
+<br />
+Bonjour !
 <br />
 <br />
 Je suis Titouan, développeur full stack toujours en quête de nouvelles connaissances. Mon intérêt grandissant pour la programmation s'est manifesté lorsque j'ai dû trouver une solution pour relancer mon ancien ordinateur, dont une des cartes mères était défectueuse, à l'aide de lignes de commande sur le terminal. Cette expérience était tellement gratifiante que je me lancé dans deux formations de développement web pour apprendre un maximum de choses en informatique et monter en compétence. Je porte un intérêt tout particulier en la qualité du code lorsque je programme.
 
 J'apprends beaucoup chaque jour et continue de travailler sur mes projets personnels jusqu'à ce que je trouve un emploi en tant que développeur full stack.
 
-  <img align="right" alt="GIF" src="https://github.com/cosyosbourne/ReadMeCosy/blob/master/code.gif" width="500" height="320" />
 
 - 💼 une opportunité d'emploi ou d'alternance ? contactez-moi ici :  [email](mailto:titouan.andritsos@hotmail.fr)
 - 💬 n'hésitez pas si vous avez la moindre question
@@ -149,7 +136,7 @@ Other        15 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-Si vous appréciez ce que. jefais, n'hésitez pas à me contacter
+Si vous appréciez ce que je fais, n'hésitez pas à me contacter !
 
 <!-- 🚧 **my todoist stats:** -->
 <!-- TODO-IST:START -->
@@ -162,4 +149,4 @@ Si vous appréciez ce que. jefais, n'hésitez pas à me contacter
 <br />
 
 📈 **Mes stats github**
- Voir le graphique plus haut
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cosyosbourne&show_icons=true&theme=gotham" alt="TitouanAndritsos" /></p>
