@@ -13,7 +13,7 @@
 </a>
 
 <br />
-
+<br />
 Hello, I'm Titouan Andritsos, an always learning full stack web developer from France. My increasing interest for software came from relaunching my dead PC using only terminal command lines three years ago while knowing nothing about programming at the time. It was so rewarding that I then decided to take several intensive courses to learn as many things as I could about programming. I take great care in code quality of the things I build.
 
 I am learning a lot every day and will keep working on my personnal software projects until I can find a job as a full stack developper.
