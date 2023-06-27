@@ -1,4 +1,4 @@
-### Hello there
+### Hello there !
 <a href="https://www.instagram.com/cosy_osbourne/">
   <img align="left" alt="Titouan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -11,8 +11,6 @@
 <a href="youtube.com/@dull_boy">
   <img align="left" alt="Titouan's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
