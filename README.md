@@ -1,4 +1,5 @@
 🇺🇸 🇬🇧
+<br />
 ### Hello there !
 <a href="https://www.instagram.com/cosy_osbourne/">
   <img align="left" alt="Titouan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -83,6 +84,7 @@ If you like what I do, please consider reaching out
 <br />
 <br />
 🇫🇷
+<br />
 ### Bonjour !
 <a href="https://www.instagram.com/cosy_osbourne/">
   <img align="left" alt="Titouan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -160,5 +162,4 @@ Si vous appréciez ce que. jefais, n'hésitez pas à me contacter
 <br />
 
 📈 **Mes stats github**
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cosyosbourne&show_icons=true&theme=gotham" alt="TitouanAndritsos" />
+ Voir le graphique plus haut
