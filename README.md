@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/titouan-andritsos-b1577210a/">
   <img align="left" alt="Titouan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
-<a href="youtube.com/@dull_boy">
+<a href="https://www.youtube.com/@dull_boy">
   <img align="left" alt="Titouan's YouTube" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/youtube.png" />
 </a>
 
